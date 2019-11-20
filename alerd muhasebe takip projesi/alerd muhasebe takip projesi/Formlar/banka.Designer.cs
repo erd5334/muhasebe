@@ -38,9 +38,9 @@
             this.label1.ForeColor = System.Drawing.Color.Lime;
             this.label1.Location = new System.Drawing.Point(541, 255);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(294, 50);
+            this.label1.Size = new System.Drawing.Size(324, 50);
             this.label1.TabIndex = 2;
-            this.label1.Text = "HAZIRLANIYOR";
+            this.label1.Text = "HAZIRLANIYOR...";
             // 
             // banka
             // 
