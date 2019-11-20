@@ -16,7 +16,6 @@ namespace alerd_muhasebe_takip_projesi
             var stok = new Formlar.stok();
             stok.MdiParent = this;
             stok.WindowState= FormWindowState.Maximized;
-            stok.BackgroundImage= Properties.Resources.arkaplan;
             stok.Show();
         }
 
@@ -25,7 +24,6 @@ namespace alerd_muhasebe_takip_projesi
             var cari = new Formlar.cari();
             cari.MdiParent = this;
             cari.WindowState= FormWindowState.Maximized;
-            cari.BackgroundImage= Properties.Resources.arkaplan;
             cari.Show();
         }
 
@@ -34,7 +32,6 @@ namespace alerd_muhasebe_takip_projesi
             var banka = new Formlar.banka();
             banka.MdiParent = this;
             banka.WindowState = FormWindowState.Maximized;
-            banka.BackgroundImage= Properties.Resources.arkaplan;
             banka.Show();
         }
 
@@ -43,7 +40,6 @@ namespace alerd_muhasebe_takip_projesi
             var kasa = new Formlar.kasa();
             kasa.MdiParent = this;
             kasa.WindowState = FormWindowState.Maximized;
-            kasa.BackgroundImage= Properties.Resources.arkaplan;
             kasa.Show();
         }
 
